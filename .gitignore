@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a
@@ -22,3 +23,10 @@ _testmain.go
 *.exe
 *.test
 *.prof
+isolatego
+isolatego_darwin_386
+isolatego_darwin_amd64
+isolatego_freebsd_386
+isolatego_freebsd_amd64
+isolatego_linux_386
+isolatego_linux_amd64
